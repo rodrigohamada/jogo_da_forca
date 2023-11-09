@@ -1,0 +1,10 @@
+C:\Users\rhamada\Desktop\Diagrama\Jogo_da_Forca\Jogo_da_Forca\bin\Debug\Jogo_da_Forca.exe.config
+C:\Users\rhamada\Desktop\Diagrama\Jogo_da_Forca\Jogo_da_Forca\bin\Debug\Jogo_da_Forca.exe
+C:\Users\rhamada\Desktop\Diagrama\Jogo_da_Forca\Jogo_da_Forca\bin\Debug\Jogo_da_Forca.pdb
+C:\Users\rhamada\Desktop\Diagrama\Jogo_da_Forca\Jogo_da_Forca\obj\Debug\Jogo_da_Forca.csproj.AssemblyReference.cache
+C:\Users\rhamada\Desktop\Diagrama\Jogo_da_Forca\Jogo_da_Forca\obj\Debug\Jogo_da_Forca.Form1.resources
+C:\Users\rhamada\Desktop\Diagrama\Jogo_da_Forca\Jogo_da_Forca\obj\Debug\Jogo_da_Forca.Properties.Resources.resources
+C:\Users\rhamada\Desktop\Diagrama\Jogo_da_Forca\Jogo_da_Forca\obj\Debug\Jogo_da_Forca.csproj.GenerateResource.cache
+C:\Users\rhamada\Desktop\Diagrama\Jogo_da_Forca\Jogo_da_Forca\obj\Debug\Jogo_da_Forca.csproj.CoreCompileInputs.cache
+C:\Users\rhamada\Desktop\Diagrama\Jogo_da_Forca\Jogo_da_Forca\obj\Debug\Jogo_da_Forca.exe
+C:\Users\rhamada\Desktop\Diagrama\Jogo_da_Forca\Jogo_da_Forca\obj\Debug\Jogo_da_Forca.pdb
